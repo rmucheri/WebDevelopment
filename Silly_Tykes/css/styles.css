@@ -1,0 +1,38 @@
+ body{
+
+  color: #462BFE;
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  font-family: "Montserrat";
+
+}
+.nav-link{
+  color: black;
+}
+
+.container-fluid{
+  padding-left: 0;
+  padding-right: 0;
+  padding: 3% 15%;
+
+}
+.navbar-brand{
+    font-size: 1.5rem;
+  }
+#title{
+  background-color: #a6a7a1;
+  padding: 0 15%;
+
+}
+.main-logo{
+  transform: rotate(-25deg);
+
+}
+
+#test1{
+  background-color: #404447;
+  color: #27E630;
+  padding: 7% 15%;
+
+}
